@@ -33,3 +33,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES (null
 INSERT INTO subgenres (name) VALUES (null);
 
 INSERT INTO subgenres (name) VALUES (null);
+
+INSERT INTO authors (name) VALUES (null);
