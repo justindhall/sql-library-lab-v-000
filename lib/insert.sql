@@ -38,4 +38,4 @@ INSERT INTO authors (name) VALUES (null);
 
 INSERT INTO authors (name) VALUES (null);
 
-INSERT INTO character_books ()
+INSERT INTO character_books (character_id, book_id)
