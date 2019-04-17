@@ -35,3 +35,5 @@ INSERT INTO subgenres (name) VALUES (null);
 INSERT INTO subgenres (name) VALUES (null);
 
 INSERT INTO authors (name) VALUES (null);
+
+INSERT INTO authors (name) VALUES (null);
